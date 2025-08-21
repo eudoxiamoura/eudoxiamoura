@@ -1,5 +1,3 @@
-# 👩‍💻 Eudóxia Moura
-
 Sou **Professora de Informática** no ensino técnico e superior.  
 Apaixonada por **tecnologia, ensino e inovação**, atuo principalmente nas áreas de **Banco de Dados, Programação, Robótica e Ferramentas de Produtividade**.
 
